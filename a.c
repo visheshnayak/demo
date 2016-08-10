@@ -19,5 +19,4 @@ int main()
 	scanf("%d%d",&a,&b);
 	printf("Difference:%d",sub(a,b));
 	printf("\nAddition:%d\n",add(a,b));
-
 }

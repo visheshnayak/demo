@@ -15,7 +15,7 @@ int add(int a,int b)
 int main()
 {
 	int a,b,c;
-	printf("Enter 2 numbers :\n");
+	printf("Enter 2 numbers:\n");
 	scanf("%d%d",&a,&b);
 	printf("Difference:%d",sub(a,b));
 	printf("\nAddition:%d\n",add(a,b));
